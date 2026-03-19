@@ -1,0 +1,5 @@
+{
+  "name": "DocStep Checklist",
+  "description": "Upload a document and automatically generate an actionable checklist from its contents using AI.",
+  "requestFramePermissions": []
+}
